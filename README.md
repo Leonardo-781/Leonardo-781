@@ -4,7 +4,7 @@
 const developer = {
   	name: "Leonardo",
   	role: "Maker",
-  	skills: ["HTML", "CSS", "JavaScript", "PHP", "C", "Java", Python],
+  	skills: ["HTML", "CSS", "JavaScript", "PHP", "C", "Java", "Python"],
   	passion: "Robotics",
 };	
 ~~~
