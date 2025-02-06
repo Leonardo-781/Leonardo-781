@@ -1,4 +1,4 @@
-<h1 align="center"> Oi, eu sou o <a href="#" style="color: #3382ed">Leoanrdo</a></h1>
+<h1 align="center"> Oi, eu sou o <a href="#" style="color: #3382ed">Leonardo</a></h1>
 
 ~~~javascript
 const developer = {
