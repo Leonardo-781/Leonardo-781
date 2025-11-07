@@ -21,7 +21,6 @@
 - Busco gerar soluções simples, robustas e reprodutíveis.
 
 ```javascript
-// Perfil técnico (exemplo)
 const developer = {
   name: "Leonardo",
   role: "Maker",
